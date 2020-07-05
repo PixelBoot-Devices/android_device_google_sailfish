@@ -1,7 +1,12 @@
-
 [
    {
       "repository":"device_google_marlin",
       "target_path":"device/google/marlin"
+   },
+   {
+      "repository":"vendor_google_sailfish",
+      "target_path":"vendor/google/sailfish",
+      "branch":"ten",
+      "remote": "pixel-devices-bitbucket"
    }
 ]
