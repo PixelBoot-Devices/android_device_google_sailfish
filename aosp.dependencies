@@ -6,7 +6,7 @@
    {
       "repository":"vendor_google_sailfish",
       "target_path":"vendor/google/sailfish",
-      "branch":"eleven",
+      "branch":"thirteen",
       "remote": "pixel-devices-blobs"
    }
 ]
